@@ -12,7 +12,7 @@ https://forum.inibuilds.com/files/file/1655-egnr-hawarden/
 **Required Libraries**
 * The fruit stand aircraft library(https://forums.x-plane.org/index.php?/files/file/27545-the-fruit-stand-aircraft-library/)
 * The faib aircraft library(https://forums.x-plane.org/index.php?/files/file/29079-the-faib-aircraft-library/)
-* SAM
+* SAM(https://forums.x-plane.org/index.php?/files/file/59782-scenery-animation-manager-suite/)
 
 **How to use the Beluga Line Station (BLS)**
 1. Upon landing, taxi to the the beluga line station and follow the instuctions of the marschaller who is in front of the Beluga line station 
