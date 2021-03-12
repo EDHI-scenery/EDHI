@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<scenery name="EDHI Hamburg Finkenwerder" locked="false">
+  <datarefs>
+    <dataref name="sam/zdp-egnr/XLDoors" label="XLDoors" autoplay="false" randomize_phase="false" augment_wind_speed="false">
+      <animation t="0" v="0" />
+      <animation t="50" v="10" />
+    </dataref>
+    <dataref name="sam/zdp-egnr/STDoors" label="STDoors" autoplay="false" randomize_phase="false" augment_wind_speed="false">
+      <animation t="0" v="0" />
+      <animation t="50" v="10" />
+    </dataref>
+  </datarefs>
+  <objects>
+    <instance id="Beluga ST Doors" latitude="53.536347126999999" longitude="9.8292699900000002" elevation="4.9930642992258072" heading="51.619999999999997" />
+    <instance id="Beluga XL Doors" latitude="53.536347126999999" longitude="9.8292699900000002" elevation="4.9930642992258072" heading="51.619999999999997" />
+  </objects>
+  <jetwayDescriptions />
+  <jetways />
+  <docks>
+    <dock id="1" latitude="53.179612528053212" longitude="-2.971931027445875" elevation="4.7107043620198965" heading="64.632316589355469" fixed="false" dockLatitude="53.179544097612663" dockLongitude="-2.9721720517482759" dockHeading="64.074653625488281" />
+    <dock id="10" latitude="53.182927073076989" longitude="-2.9665269804405399" elevation="4.5474078617990017" heading="0.53827697038650513" fixed="false" dockLatitude="53.1827624442356" dockLongitude="-2.9665297051790906" dockHeading="0.20150506496429443" />
+    <dock id="2" latitude="53.180155654239925" longitude="-2.971134713433027" elevation="4.7916363989934325" heading="64.631675720214844" fixed="false" dockLatitude="53.180089086910471" dockLongitude="-2.9713767916122724" dockHeading="64.064430236816406" />
+    <dock id="3" latitude="53.180716413078812" longitude="-2.9703026209683157" elevation="4.7970308903604746" heading="64.631011962890625" fixed="false" dockLatitude="53.180649037460789" dockLongitude="-2.9705378522831243" dockHeading="64.06317138671875" />
+    <dock id="4" latitude="53.181262861295565" longitude="-2.9695172425952565" elevation="4.8091780506074429" heading="64.630386352539063" fixed="false" dockLatitude="53.181188754336169" dockLongitude="-2.9697692425580864" dockHeading="64.062751770019531" />
+    <dock id="5" latitude="53.181702535305966" longitude="-2.9686370053010247" elevation="4.8723291782662272" heading="81.153373718261719" fixed="false" dockLatitude="53.18167678850088" dockLongitude="-2.9689029591268854" dockHeading="80.721748352050781" />
+    <dock id="6" latitude="53.18297095330044" longitude="-2.9686837427380501" elevation="4.35849279910326" heading="30.170581817626953" fixed="false" dockLatitude="53.18283344723546" dockLongitude="-2.9688168980763323" dockHeading="29.469696044921875" />
+    <dock id="7" latitude="53.183305729177192" longitude="-2.9680609815641756" elevation="4.3326139403507113" heading="9.8230953216552734" fixed="false" dockLatitude="53.183128620028938" dockLongitude="-2.9681134753032068" dockHeading="9.548365592956543" />
+    <dock id="8" latitude="53.183919386147153" longitude="-2.9671602336921139" elevation="4.0654811654239893" heading="9.8223772048950195" fixed="false" dockLatitude="53.183752735844266" dockLongitude="-2.9672102394813789" dockHeading="9.5476436614990234" />
+    <dock id="9" latitude="53.181750684369014" longitude="-2.9681115343021829" elevation="4.946320197544992" heading="261.54025268554688" fixed="false" dockLatitude="53.181773514333507" dockLongitude="-2.9678779004779079" dockHeading="260.72918701171875" />
+    <dock id="BLS" latitude="53.177039002360807" longitude="-2.9723525598409188" elevation="4.9931047903373837" heading="132.6280517578125" fixed="false" dockLatitude="53.177168978693501" dockLongitude="-2.9725895537313995" dockHeading="132.38714599609375" />
+    <dock id="Beluga Apron" latitude="53.177586420576617" longitude="-2.9739037464942388" elevation="4.9957773806527257" heading="42.935550689697266" fixed="false" dockLatitude="53.177400375787478" dockLongitude="-2.9741873510897197" dockHeading="42.723285675048828" />
+    <dock id="Beluga line station" latitude="53.536284524097248" longitude="9.8291347337429187" elevation="0.8299466036260128" heading="51.349853515625" fixed="false" dockLatitude="53.536117079369738" dockLongitude="9.8287812180925176" dockHeading="52.698772430419922" />
+  </docks>
+  <gui>
+    <checkbox label="Open/Close" instance="Beluga ST Doors" title="Beluga ST Doors" description="Beluga ST Doors" dataref="sam/zdp-egnr/STDoors" />
+    <checkbox label="Open/Close" instance="Beluga XL Doors" title="Beluga XL Doors" description="Beluga XL Doors" dataref="sam/zdp-egnr/XLDoors" />
+    <checkbox label="open/close" title="" description="" dataref="sam/zdp-egnr/STDoors" />
+  </gui>
+  <static_aircrafts />
+</scenery>
