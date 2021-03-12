@@ -6,7 +6,7 @@ They made it clear that they don't suport this scenery and have nothing to do wi
 This scenery I used is from the scenery-gateway and I didn't made it myself
 https://gateway.x-plane.com/airports/EDHI/show
 
-The Beluga linestation I used is from the EGNR scnery made by ZeroDollarPayware I just copy pasted everithing of it.
+The Beluga linestation I used is from the EGNR scenery made by ZeroDollarPayware I just copy pasted everithing of it.
 https://forum.inibuilds.com/files/file/1655-egnr-hawarden/
 
 **Required Libraries**
