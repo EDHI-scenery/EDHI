@@ -1,9 +1,0 @@
-A
-850
-DRAPED_POLYGON
-LAYER_GROUP taxiways +2
-
-TEXTURE concrete1a.png
-TEXTURE_NORMAL 1.0 concrete1_NML_clean.png
-SURFACE concrete
-SCALE 36 36
